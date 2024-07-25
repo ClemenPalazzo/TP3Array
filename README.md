@@ -13,7 +13,7 @@ Un array es una estructura de datos que permite almacenar múltiples valores en 
 ### 1. Información sobre una cadena de texto
 Esta función determina si una cadena de texto está formada solo por mayúsculas, solo por minúsculas o por una mezcla de ambas. Utilizamos un array para almacenar y mostrar múltiples resultados.
 
-### git clone https://github.com/tu-usuario/ejemplos-arrays-javascript.git
+### git clone https://github.com/ClemenPalazzo/TP3Array.git
 
 
 ```javascript
