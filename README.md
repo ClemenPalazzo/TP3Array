@@ -8,12 +8,14 @@ Un array es una estructura de datos que permite almacenar múltiples valores en 
 - **Tamaño**: Un array puede tener cualquier cantidad de elementos.
 - **Homogeneidad**: En JavaScript, los arrays pueden contener elementos de distintos tipos.
 
+### git clone https://github.com/ClemenPalazzo/TP3Array.git
+
+
 ## Ejemplos de Ejercicios
 
 ### 1. Información sobre una cadena de texto
 Esta función determina si una cadena de texto está formada solo por mayúsculas, solo por minúsculas o por una mezcla de ambas. Utilizamos un array para almacenar y mostrar múltiples resultados.
 
-### git clone https://github.com/ClemenPalazzo/TP3Array.git
 
 
 ```javascript
